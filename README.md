@@ -1,5 +1,7 @@
 # JaibaScript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/vasco3/jaibascript.svg)](https://greenkeeper.io/)
+
 > JavaScript in Spanish
 
 ## Overview
